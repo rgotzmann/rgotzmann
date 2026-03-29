@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @rgotzmann
-- 👀 I’m interested in coding for environmental conservation and cool energy-efficient tech 
-- 💞️ I’m looking to collaborate on any of the above!
-- 📫 How to reach me: this web portal. 
